@@ -24,8 +24,10 @@ class SoftwareEngineer extends Engineer {
 * 👀 Looking for my next opportunity
 * 👨‍💻 Working on [DrivingDoge](https://github.com/theomantz/DrivingDoge)
 
-## My GitHub Stats:
+## My Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theomantz)](https://github.com/theomantz)
+
+## My GitHub Stats:
 [![Theos Github Stats](https://github-readme-stats.vercel.app/api?username=theomantz)](https://github.com/theomantz)
 
 ## Credits:
