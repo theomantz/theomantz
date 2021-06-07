@@ -1,4 +1,4 @@
-[<img src='./assets/githubProfile.gif' alt='hey! im theo welcome!' style='border-radius:5px;margin-top:20px'/>](https://mantz.nyc)
+<h1 style='margin-bottom:20px'> Hi All, I'm Theo!! </h1>
 
   [![NewYork](https://img.shields.io/badge/theo%20%40-New%20York-red?style=for-the-badge)][NewYorkURL]
   [![Website](https://img.shields.io/badge/theo%20%40-mantz.nyc-blue?style=for-the-badge)](https://mantz.nyc/)
@@ -13,7 +13,6 @@
 ## What I'm Doing:
 * 👀 Looking for my next opportunity
 * 👨‍💻 Working on [DrivingDoge](https://github.com/theomantz/DrivingDoge)
-* 
 
 ## My GitHub Stats:
 [![Theos Github Stats](https://github-readme-stats.vercel.app/api?username=theomantz)](https://github.com/anuraghazra/github-readme-stats)
