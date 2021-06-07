@@ -1,5 +1,15 @@
 <h1 style='margin-bottom:20px'> Hi All, I'm Theo!! </h1>
 
+```js
+class SoftwareEngineer extends Engineer {
+  constructor(data) {
+    this.name = 'Theo',
+    this.location = ['40.7128° N', '74.0060° W']
+  }
+}
+```
+
+
   [![NewYork](https://img.shields.io/badge/theo%20%40-New%20York-red?style=for-the-badge)][NewYorkURL]
   [![Website](https://img.shields.io/badge/theo%20%40-mantz.nyc-blue?style=for-the-badge)](https://mantz.nyc/)
   [![LinkedIn](https://img.shields.io/badge/theo%20%40-linkedin-green?style=for-the-badge)](https://www.linkedin.com/in/theo-mantz/)
@@ -18,7 +28,6 @@
 [![Theos Github Stats](https://github-readme-stats.vercel.app/api?username=theomantz)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Credits:
-* Typing Header: [Raymond Li](https://github.com/Raymo111/Raymo111/blob/master/README.md)
 * GitHub Stats: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Badge URLs -->
