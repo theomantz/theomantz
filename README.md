@@ -24,6 +24,7 @@ class SoftwareEngineer extends Engineer {
 * 👀 Looking for my next opportunity
 * 👨‍💻 Working on [DrivingDoge](https://github.com/theomantz/DrivingDoge)
 * 🔨 Building a NPM package [text-rank](https://github.com/theomantz/text-rank)
+* 👨‍🎓 Constantly learning
 
 ## My Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theomantz)](https://github.com/theomantz)
