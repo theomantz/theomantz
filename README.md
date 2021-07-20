@@ -2,7 +2,7 @@
 
 ```js
 class SoftwareEngineer extends Engineer {
-  constructor(data) {
+  constructor() {
     this.name = 'Theo',
     this.location = ['40.7128° N', '74.0060° W']
   }
