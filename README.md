@@ -14,7 +14,7 @@ class SoftwareEngineer extends Engineer {
   [![Website](https://img.shields.io/badge/theo%20%40-mantz.nyc-blue?style=for-the-badge)](https://mantz.nyc/)
   [![LinkedIn](https://img.shields.io/badge/theo%20%40-linkedin-green?style=for-the-badge)](https://www.linkedin.com/in/theo-mantz/)
 
-### About Me:
+## About Me:
 * 💻 Full-Stack Software Engineer
 * 🏗 Former Structural Engineer
 * 🦅 Birdwatcher
