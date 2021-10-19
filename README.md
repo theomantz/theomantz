@@ -4,7 +4,8 @@
 class SoftwareEngineer extends Engineer {
   constructor() {
     this.name = 'Theo',
-    this.location = ['40.7128° N', '74.0060° W']
+    this.location = ['40.7128° N', '74.0060° W'],
+    this.languages = new Set("JavaScript", "Ruby", "Python", "Swift")
   }
 }
 ```
