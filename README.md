@@ -5,7 +5,10 @@ class SoftwareEngineer extends Engineer {
   constructor() {
     this.name = 'Theo',
     this.location = ['40.7128° N', '74.0060° W'],
-    this.languages = new Set("JavaScript", "Ruby", "Python", "Swift")
+    this.languages = new Set("JavaScript", "Ruby", "Python", "Swift"),
+    this.libraries = new Set("React", "jQuery", "TensorFlow"),
+    this.frameworks = new Set("Rails", "Django", "Express"),
+    this.skills = new Set("AWS", "Docker", "Heroku", "Nix")
   }
 }
 ```
