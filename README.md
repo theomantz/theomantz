@@ -31,7 +31,7 @@ class SoftwareEngineer extends Engineer {
 * 👨‍🎓 Constantly learning
 
 ## My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theomantz&langs_count=8&layout=compact)](https://github.com/theomantz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theomantz&langs_count=8&layout=compact&hide=html,css,scss,coffeescript)](https://github.com/theomantz)
 
 ## My GitHub Stats:
 [![Theos Github Stats](https://github-readme-stats.vercel.app/api?username=theomantz)](https://github.com/theomantz)
