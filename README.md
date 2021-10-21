@@ -30,14 +30,5 @@ class SoftwareEngineer extends Engineer {
 * 🔨 Building a NPM package [text-rank](https://github.com/theomantz/text-rank)
 * 👨‍🎓 Constantly learning
 
-## My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theomantz&langs_count=8&layout=compact&hide=html,css,scss,coffeescript)](https://github.com/theomantz)
-
-## My GitHub Stats:
-[![Theos Github Stats](https://github-readme-stats.vercel.app/api?username=theomantz)](https://github.com/theomantz)
-
-## Credits:
-* GitHub Stats: [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Badge URLs -->
 [NewYorkURL]: https://www.google.com/maps/place/New+York,+NY/@40.7076183,-74.0611341,12.03z/data=!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728
