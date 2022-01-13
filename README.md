@@ -25,7 +25,7 @@ class SoftwareEngineer extends Engineer {
 * 🚵‍♂️ Cyclist
   
 ## What I'm Doing:
-* ✈️ Associate Software Engineer @ FlightAware
+* ⛓ Software Engineer @ Chainalysis
 * 👨‍💻 Working on [DrivingDoge](https://github.com/theomantz/DrivingDoge)
 * 🔨 Building a NPM package [text-rank](https://github.com/theomantz/text-rank)
 * 👨‍🎓 Constantly learning
