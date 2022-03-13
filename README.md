@@ -8,7 +8,7 @@ class SoftwareEngineer extends Engineer {
     this.languages = new Set("JavaScript", "Ruby", "Python", "Swift"),
     this.libraries = new Set("React", "jQuery", "TensorFlow"),
     this.frameworks = new Set("Rails", "Django", "Express"),
-    this.skills = new Set("AWS", "Docker", "Heroku", "Nix")
+    this.skills = new Set("AWS", "Docker", "Heroku")
   }
 }
 ```
